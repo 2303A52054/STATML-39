@@ -4,3 +4,4 @@
 3.[https://github.com/2303A52054/STATML-39/blob/main/ASSI_06.ipynb]
 4.[https://github.com/2303A52054/STATML-39/blob/main/Assi07.ipynb]
 5.[https://github.com/2303A52054/STATML-39/blob/main/ASSI08.ipynb]
+6.[https://github.com/2303A52054/STATML-39/blob/main/ASSIG09.ipynb]
